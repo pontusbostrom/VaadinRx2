@@ -6,7 +6,7 @@
 	<artifactId>vaadinrx2</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
-	<name>VaadinRx2 Add-on</name>
+	<name>Rx4Vaadin Add-on</name>
 
 	<prerequisites>
 		<maven>3</maven>

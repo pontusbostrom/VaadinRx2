@@ -1,6 +1,6 @@
-# VaadinRx2 Add-on for Vaadin 8
+# Rx4Vaadin Add-on for Vaadin 8
 
-VaadinRx2 is a small add-on for integrating Reactive programming with [RxJava 2](https://github.com/ReactiveX/RxJava) in [Vaadin 8](https://github.com/vaadin/framework). It provides utility methods for creating observables from buttons and other components that generate events and methods for subscribing components to observables. Additionally, there is a data provider for collecting values from observables. The data provider can be used directly to connect observables to e.g. grids and charts.
+This is a small add-on for integrating Reactive programming using [RxJava 2](https://github.com/ReactiveX/RxJava) with [Vaadin 8](https://github.com/vaadin/framework). The add-on provides utility methods for creating observables from buttons and other components that generate events and methods for subscribing components to observables. Additionally, there is a data provider for collecting values from observables. The data provider can be used directly to connect observables to e.g. grids and charts.
 
 The demo demonstrates how this add-on can be used to create a simple dashboard app where data from a data source is visualized using various Vaadin UI components (including Vaadin charts).
 
@@ -12,7 +12,7 @@ Official releases of this add-on are available at Vaadin Directory. For Maven in
 
 ## Building and running demo
 
-git clone <url of the VaadinRx2 repository>
+git clone https://github.com/pontusbostrom/VaadinRx2.git
 mvn clean install
 cd vaadinrx2-demo
 mvn jetty:run
@@ -61,7 +61,7 @@ Contributions are welcome, but there are no guarantees that they are accepted as
 
 Add-on is distributed under Apache License 2.0. For license terms, see LICENSE.txt.
 
-VaadinRx2 is written by Pontus Boström <pontus@vaadin.com>
+Rx4Vaadin is written by Pontus Boström <pontus@vaadin.com>
 
 # Developer Guide
 
