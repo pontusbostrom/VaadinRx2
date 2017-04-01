@@ -4,11 +4,11 @@ VaadinRx2 is a small add-on for integrating Reactive programming with [RxJava 2]
 
 The demo demonstrates how this add-on can be used to create a simple dashboard app where data from a data source is visualized using various Vaadin UI components (including Vaadin charts).
 
-The add-on is inspired by [RxVaadin:](https://github.com/hezamu/RxVaadin). However, this add-on uses the new cool features of Vaadin 8, as well as a new version of RxJava.
+The add-on is inspired by [RxVaadin](https://github.com/hezamu/RxVaadin). However, this add-on uses the new cool features of Vaadin 8, as well as a new version of RxJava.
 
 ## Download release
 
-Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to http://vaadin.com/addon/vaadinrx2
+Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to http://vaadin.com/directory
 
 ## Building and running demo
 
@@ -41,12 +41,6 @@ If you have a JRebel license, it makes on the fly code changes faster. Just add 
 
 To debug project and make code modifications on the fly in the server-side, right-click the vaadinrx2-demo project and choose Debug As > Debug on Server. Navigate to http://localhost:8080/vaadinrx2-demo/ to see the application.
 
- 
-## Release notes
-
-### Version 1.0-SNAPSHOT
-- ...
-- ...
 
 
 ## Issue tracking

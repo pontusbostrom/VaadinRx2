@@ -5,7 +5,7 @@
 	<groupId>org.vaadin.pontus</groupId>
 	<artifactId>vaadinrx2-root</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>RxVaadin2 Add-on Root Project</name>
 
 	<prerequisites>
