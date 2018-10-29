@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/rx4vaadin-add-on)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/rx4vaadin-add-on.svg)](https://vaadin.com/directory/component/rx4vaadin-add-on)
+
 # Rx4Vaadin Add-on for Vaadin 8
 
 This is a small add-on for integrating Reactive programming using [RxJava 2](https://github.com/ReactiveX/RxJava) with [Vaadin 8](https://github.com/vaadin/framework). The add-on provides utility methods for creating observables from buttons and other components that generate events and methods for subscribing components to observables. Additionally, there is a data provider for collecting values from observables. The data provider can be used directly to connect observables to e.g. grids and charts.
